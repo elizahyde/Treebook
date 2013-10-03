@@ -11,11 +11,14 @@
   margin: 4px 0;
 }
 
-.meta .admin {
+.status.hover {
+  background: #FAFAFA;
+}
+
+.status .admin {
   display: none;
 }
 
-
-.meta.hover .admin {
-  display:inline;
+.status.hover .admin {
+  display: inline;
 }
